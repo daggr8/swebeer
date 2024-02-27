@@ -1,8 +1,11 @@
 site_name: Swebeer
 
 repo_name: swebeer/wiki
+repo_url: https://github.com/daggr8/swebeer
 theme:
   name: material
+  favicon: resources/favicon.ico
+  logo: resources/swebeer_logo.png
   features:
     - navigation.tabs
     - navigation.sections
@@ -12,7 +15,11 @@ theme:
     - search.highlight
     - content.tabs.link
     - code.annotation
+    - navigation.tracking
     - content.code.copy
+    - git-revision-date-localized:
+      enable_creation_date: true
+
   palette:
     - scheme: default
       toggle:

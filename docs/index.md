@@ -1,5 +1,5 @@
 # 
-![alt text](../resources/swebeer_logo.png "Swebeer")
+![alt text](resources/swebeer_logo.png "Swebeer")
 
 En plats där vi chattar om att dricka öl, brygga öl, smaka öl, köpa öl, lagra öl
 och allt annat som har med öl att göra.
