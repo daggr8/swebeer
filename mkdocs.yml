@@ -1,4 +1,6 @@
 site_name: Swebeer
+
+repo_name: swebeer/wiki
 theme:
   name: material
   features:
@@ -16,12 +18,12 @@ theme:
       toggle:
         icon: material/toggle-switch-off-outline
         name: Switch to dark mode
-      primary: teal
+      primary: darkblue
       accent_: purple
     - scheme: slate
       toggle:
         icon: material/toggle-switch
         name: Switch to light mode
-      primary: teal
+      primary: darkblue
       accent_: lime
     
