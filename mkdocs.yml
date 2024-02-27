@@ -5,7 +5,7 @@ repo_url: https://github.com/daggr8/swebeer
 theme:
   name: material
   favicon: resources/favicon.ico
-  logo: resources/swebeer_logo.png
+  #logo: resources/swebeer_logo.png
   features:
     - navigation.tabs
     - navigation.sections
