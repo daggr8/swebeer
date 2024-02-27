@@ -17,8 +17,6 @@ theme:
     - code.annotation
     - navigation.tracking
     - content.code.copy
-    - git-revision-date-localized:
-      enable_creation_date: true
 
   palette:
     - scheme: default
@@ -34,3 +32,6 @@ theme:
       primary: darkblue
       accent_: lime
     
+plugins:
+  - git-revision-date-localized:
+      enable_creation_date: true
