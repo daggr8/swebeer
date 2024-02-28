@@ -1,7 +1,7 @@
 site_name: Swebeer
 
 repo_name: swebeer/wiki
-repo_url: https://github.com/daggr8/swebeer
+#repo_url: https://github.com/daggr8/swebeer
 theme:
   name: material
   favicon: resources/favicon.ico
@@ -33,5 +33,6 @@ theme:
       accent_: lime
     
 plugins:
+  - search
   - git-revision-date-localized:
       enable_creation_date: true
