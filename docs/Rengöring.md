@@ -1,5 +1,28 @@
 # Rengöring 
 
+## Dosering
+
+#### PBW
+30g per 10L otsvarar ca 2 msk per 10L. 
+
+#### StarSan
+1 msk per 10L.
+
+#### SaniClean
+1msk per 6L.
+
+#### Chemipro OXI
+4g per liter.
+
+#### Sanipro Rinse
+12,5-25ml per 10L.
+
+#### Chemipro CIP
+25-40ml per 10L. 
+
+#### Pipeline Original
+25ml/L (2.5%)
+
 ## Rengöringsmedel
 ### Variant 1
 

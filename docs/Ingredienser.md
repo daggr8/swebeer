@@ -26,3 +26,9 @@ För en rejäl smak av granskott kan följande mängder användas.
 50g granskott @ 10 min  
 
 För en subtilare smak kan 150 gr användas vid 60 minutersgivan.   
+
+
+## Övrigt
+### Black treacle
+En halv burk (227g) var lagom till 10L öl.  
+Black Treacle finns att köpa på [English shop](https://www.englishshop.se/product/tate-lyle-black-treacle-454g)
