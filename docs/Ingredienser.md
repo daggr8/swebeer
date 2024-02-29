@@ -4,7 +4,7 @@
 
 ### Hallon
 Veteöl - 500g/12L (frysta, sekundärjäsning 3 dygn) gav en lagom nivå.  
-Veteöl - 500g/7L (frysta, sekundärjäsning 3 dygn) gav lite för mycket smak. 
+Veteöl - 500g/7L (frysta, sekundärjäsning 3 dygn) gav lite för mycket smak.  
 Saison - 1kg/22L (färsk, primärjäsning 14 dygn) lätt smak av hallon.
 
 ### Jordgubb
@@ -25,10 +25,10 @@ För en rejäl smak av granskott kan följande mängder användas.
 300g granskott @ 60 min  
 50g granskott @ 10 min  
 
-För en subtilare smak kan 150 gr användas vid 60 minutersgivan.   
+För en subtilare smak kan 150g användas vid 60 minutersgivan.   
 
 
 ## Övrigt
 ### Black treacle
-En halv burk (227g) var lagom till 10L öl.  
+En halv burk (227g) är lagom till 10L öl.  
 Black Treacle finns att köpa på [English shop](https://www.englishshop.se/product/tate-lyle-black-treacle-454g)

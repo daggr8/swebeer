@@ -16,15 +16,20 @@ John Guest-kopplingarna är 10mm.
 
 ### Säkerhetsventiler (PRV)
 
-GREY- 6.9 bar (100 psi)  
-GREEN - 4.5 bar (65 psi)  
-RED - 2.5 bar (35 psi)  
-YELLOW/ORANGE - 1.2 bar (17 psi)  
-PURPLE - 1.03 bar (15 psi)  
-BLUE - 0.7 bar (10 psi)  
+Grå - 6.9 bar (100 psi)  
+Grön - 4.5 bar (65 psi)  
+Röd - 2.5 bar (35 psi)  
+Gul/orange - 1.2 bar (17 psi)  
+Lila - 1.03 bar (15 psi)  
+Blå - 0.7 bar (10 psi)  
 
 
 ## Övrigt
+
+### Kegmenter
+Kegmenter 29L väger inkl tryckkit ca 10660g  
+Utan lock 9825g
+
 
 ### PET-flaskor
 Korken till Oxe 4L/8L heter PCO38.  

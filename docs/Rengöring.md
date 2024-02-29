@@ -3,7 +3,7 @@
 ## Dosering
 
 #### PBW
-30g per 10L otsvarar ca 2 msk per 10L. 
+30g per 10L motsvarar ca 2 msk per 10L. 
 
 #### StarSan
 1 msk per 10L.
