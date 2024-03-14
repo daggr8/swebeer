@@ -17,4 +17,4 @@ För frågor och förslag går det bra att prata med någon av administratörern
 @dernebo - Fredrik Dernebo (Hillbilly Brewery, Skellefteå)  
 @ollej - Olle J (Exalted Beer, Sthlm)  
 @patlar - Patrik Larsson (Sthlm)  
-@timppa - Timo Sivonen (Pyttebrygg, ängelholm)  
+@timppa - Timo Sivonen (Pyttebrygg, Ängelholm)  
