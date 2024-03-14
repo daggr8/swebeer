@@ -1,10 +1,15 @@
 # Jäsning
 
+## Förkultur
+
+
+
+
 ## Kallkrash
 
-För känsliga öl så som lageröl få temperaturskillnaden över 24h inte överstiga 3C. Abrupt temperaturförändring chockar jästen och kan stoppa jäsningen helt. När så många jästceller dör samtidigt påverkar det smaken negativt. (Källa: New Bewing Lager)  
+För känsliga öl så som lageröl få temperaturskillnaden över 12h inte överstiga 3C. Abrupt temperaturförändring chockar jästen och kan stoppa jäsningen helt. När så många jästceller dör samtidigt påverkar det smaken negativt. (Källa: New Bewing Lager)  
   
-Sänka 0.1C per timme är ganska lagom.  
+Sänka 0.2C per timme är ganska lagom.  
 
 
 
